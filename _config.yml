@@ -97,9 +97,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           GPA: 4.0 / 4.0
         quote: >
-          Related Courses: Undergraduate Research in Computer Science - AI and Machine Learning, Linear Algebra, Discrete Mathematics, Systems Programming, Data Structure & Algorithm Analysis, Software Engineering, 
-Programming Language Paradigms
-        
+          Related Courses: Undergraduate Research in Computer Science - AI and Machine Learning, Linear Algebra, Discrete Mathematics, Systems Programming, Data Structure & Algorithm Analysis, Software Engineering, Programming Language Paradigms
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
